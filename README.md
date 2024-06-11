@@ -1,7 +1,7 @@
 # Hala-Meet
 
 ## Description
-Hala-Meet is a Flutter-based application designed for seamless virtual meetings. The project includes several essential user interface screens and functionalities and is currently on pause.
+Hala-Meet is a Flutter-based application designed for seamless virtual meetings and Events. The project includes several essential user interface screens and functionalities and is currently on pause.
 
 ## Table of Contents
 - [Features](#features)
